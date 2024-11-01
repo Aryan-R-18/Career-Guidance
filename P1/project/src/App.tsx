@@ -67,6 +67,7 @@ function App() {
       <footer className="bg-gray-800 text-gray-300 py-8">
         <div className="container mx-auto px-4 text-center">
           <p>© 2024 Career Compass. Helping students make informed career decisions.</p>
+           <p className="text-sm text-gray-400">Created with ❤️ by PEMS'23</p>
         </div>
       </footer>
     </div>
